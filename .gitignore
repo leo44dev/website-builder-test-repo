@@ -1,0 +1,10 @@
+# Reference material and duplicates that don't belong in the published site
+www.awwwards.com_sites_grail.png
+lion logo.png
+
+# Local Claude Code settings
+.claude/settings.local.json
+
+# OS clutter
+Thumbs.db
+.DS_Store
